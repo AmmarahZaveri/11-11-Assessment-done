@@ -1,0 +1,36 @@
+(I just copied my google docs here since 
+I'm not sure if I uploaded mines correctly)
+
+Ammarah Zaveri
+Due Date: 11/13/2022
+Extra Credit: Company Stack Research
+
+Identify 3 software or technology companies that interest you.
+Perficient
+Oracle
+OpenSponsorship
+
+Conduct research to figure out some or all of the elements of each company’s technology
+stack. Check job openings/job descriptions, engineering blogs, and anything else that may 
+have information about what the company uses to write/build its software products.
+
+After checking some job descriptions, I found a few things about Perficient. For example 
+some positions require Implementations in Cloud Fusion and being a  Java expert. 
+This company also values experience. This shows me exactly what this company uses to 
+write/build its software products. For example, they would want someone with experience in 
+microservices with Spring Boot, either Angular or React, developing containerized applications 
+deployed to cloud platforms(IAAS or PAAS), SOAP and RESTful service implementations, building 
+distributed / service oriented / microservice-style and cloud based architectures, integrating 
+with Open Source Platform components (Eureka, Hystrix, Ribbon, etc.)
+
+Oracle is a company that really interests me. This company uses Oracle functions, procedures, 
+triggers, packages & performance tuning. They develop, test and automate applications using
+Unix Shell Scripts as well as have an understanding of requirements for Data Quality, Metadata, 
+Data Lineage, Operational Data Management and Operational Data Stores. They also use  Sybase and MongoDB. 
+They also use  Oracle PL/SQL, Ultraedit, SVN, WinScp, Putty and ClearQuest Defect Tracking tools.
+
+OpenSponsorship was a bit of a strange choice but I liked this company and its work. It is an online 
+platform solely focused on allowing brands to Connect and Sponsor professional athletes. Their requirements 
+are coding and solutioning, maintaining and developing backend systems, Javascript and the react framework, 
+SQL, Python (pandas) with an emphasis on data manipulation and visualization, data visualization tools such 
+as Tableau, and databases such as MongoDB.
